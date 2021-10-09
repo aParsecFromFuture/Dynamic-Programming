@@ -28,4 +28,4 @@ The algorithms are tested with AMD Ryzen 5 3500u. The columns are the input leng
 | Rod Cutting                   | 8             | 316           | 30648         |
 | Shortest Common Supersequence | 8             | 696           | 69102         |
 | Subset Sum Problem            | 5             | 191           | 17265         |
-| Word Break problem            | 212           | 46728         | >12000000     |
+| Word Break Problem            | 212           | 46728         | >12000000     |
